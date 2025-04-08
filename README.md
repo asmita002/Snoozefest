@@ -1,2 +1,2 @@
 # Snoozefest
-Game Dev CS415 Final Project
+Game Dev Final Project
